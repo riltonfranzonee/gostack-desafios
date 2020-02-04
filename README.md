@@ -12,5 +12,11 @@ Repositório criado para armazenar todos os desafios feitos durante a edição 1
 
 ## DESAFIOS CONCLUÍDOS:
 
-### Desafio 1: Conceitos do NodeJS [[ir pra desafio](https://github.com/riltonfranzonee/gostack-desafios/tree/master/desafio-1)]
+### Desafio 1: Conceitos do NodeJS [[ir para o desafio](https://github.com/riltonfranzonee/gostack-desafios/tree/master/desafio-1)]
+
+### Desafio 2: FastFeet: O início [[ir para o desafio](https://github.com/riltonfranzonee/gostack-desafios/tree/master/desafio-2)]
+
+### Desafio 3: FastFeet: Continuando a aplicação [[ir para o desafio](https://github.com/riltonfranzonee/gostack-desafios/tree/master/desafio-3)]
+
+
 

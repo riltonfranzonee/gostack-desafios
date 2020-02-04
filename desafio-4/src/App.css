@@ -1,0 +1,135 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #EEEEEE;
+  font-family: 'Helvetica Neue', 'Helvetica', Arial, sans-serif;
+  text-rendering: optimizeLegibility !important;
+  -webkit-font-smoothing: antialised !important;
+}
+
+#header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #4A90E2;
+  height: 64px;
+  margin-bottom: 20px;
+}
+
+#logo{
+  margin-left: 40px
+}
+
+#myprofile{
+  display: flex;
+  align-items: center;
+  margin-right: 40px;
+  color: #fff;
+  font-weight: bold;
+  font-family: Helvetica, sans-serif;
+  font-size: 18px;
+}
+#myprofile img{ 
+  margin-left: 10px
+}
+
+#headerComponent{
+  flex: 1;
+  margin-bottom: 10px
+}
+
+.postBox{
+  background-color: #FFF;
+  width: 1000px;
+  flex: 1;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  box-shadow: 1px 1px 5px #999999;
+
+}
+
+.userInfoBox{
+  display: flex;
+  align-items: center
+}
+
+.userInfoBox img, .commentAvatar{
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  margin: 15px;
+  margin-right: 20px;
+}
+
+.commentAvatar{
+  height: 35px;
+  width: 35px;
+}
+
+.date{
+  font-size: 14px;
+  color: #8a8a8a;
+}
+
+.name{
+  font-size: 17px;
+  color: rgb(24, 24, 24);
+  font-weight: bold
+}
+
+.content{
+  margin-left: 15px;
+  font-family: Helvetica, sans-serif;
+  color: rgb(36, 36, 36);
+  margin-bottom: 20px;
+  margin-top: 10px
+}
+
+hr.divider {
+  border: 0;
+  height: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  width: 98%;
+  margin-bottom: 10px;
+}
+
+.dividerWrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.postsWrapper{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.commentWrapper{
+  display: flex;
+  align-items: baseline;
+}
+.commentWrapper:last-child{
+  margin-bottom: 25px;
+}
+.commentBox{
+  background-color: #EEEEEE;
+  padding: 10px;
+  border-radius: 20px;
+  flex-shrink: 1;
+  font-size: 14.5px;
+  font-family: Helvetica;
+  width: 90%;
+}
+
+.commentAuthor{
+  font-size: 15.5px;
+  color: rgb(26, 26, 26);
+  font-weight: bold;
+}
