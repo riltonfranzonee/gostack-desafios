@@ -19,4 +19,10 @@ Repositório criado para armazenar todos os desafios feitos durante a edição 1
 ### Desafio 3: FastFeet: Continuando a aplicação [[ir para o desafio](https://github.com/riltonfranzonee/gostack-desafios/tree/master/desafio-3)]
 
 
+### Desafio 4: ReactJS: Interface do Facebook [[ir para o desafio](https://github.com/riltonfranzonee/gostack-desafios/tree/master/desafio-4)]
+
+### Desafio 5: ReactJS: Github API - RepositoryApp[[ir para o desafio](https://github.com/riltonfranzonee/gostack-desafios/tree/master/desafio-5)]
+
+
+
 
