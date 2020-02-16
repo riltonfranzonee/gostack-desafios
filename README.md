@@ -25,6 +25,9 @@ Repositório criado para armazenar todos os desafios feitos durante a edição 1
 
 ### Desafio 6: React Native: Github API - RepositoryApp[[ir para o desafio](https://github.com/riltonfranzonee/gostack-desafios/tree/master/desafio-6)]
 
+### Desafio 7: Redux: Rocketshoes Mobile[[ir para o desafio](https://github.com/riltonfranzonee/rocketshoesmobile)]
+
+
 
 
 
