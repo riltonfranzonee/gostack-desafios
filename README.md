@@ -27,6 +27,10 @@ Repositório criado para armazenar todos os desafios feitos durante a edição 1
 
 ### Desafio 7: Redux: Rocketshoes Mobile[[ir para o desafio](https://github.com/riltonfranzonee/rocketshoesmobile)]
 
+### Desafio 8: Redux e React Hooks: Refatorando Rocketshoes Mobile[[ir para o desafio](https://github.com/riltonfranzonee/rocketshoesmobile)]
+
+
+
 
 
 
